@@ -1,0 +1,6 @@
+tasks.c:8:6:task1	8	static
+tasks.c:12:6:task2	8	static
+tasks.c:16:6:task3	8	static
+tasks.c:20:6:task4	8	static
+tasks.c:23:6:task5	8	static
+tasks.c:27:6:BlinkTaskTest	8	static
